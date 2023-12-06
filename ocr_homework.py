@@ -30,3 +30,4 @@ def add_boxes_using_image_to_boxes(image_path):
 
 
 add_boxes_using_image_to_boxes('umbc_address.png')  # call the function
+# Made by: Fran Haraminčić
